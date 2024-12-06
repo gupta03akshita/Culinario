@@ -12,7 +12,7 @@ It is a recipe web application, where a user can search for a variety of recipes
 - It is a fully responsive web application, so you can easily view it on your mobile device as well.
 
 
-
+## Snapshots
 
 ![Culinario](images/Culinario.png)
 ![Culinario](images/Fav.png)
