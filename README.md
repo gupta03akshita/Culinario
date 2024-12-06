@@ -13,7 +13,6 @@ It is a recipe web application, where a user can search for a variety of recipes
 
 
 
-## Screenshots
 
 ![Culinario](images/Culinario.png)
 ![Culinario](images/Fav.png)
